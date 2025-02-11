@@ -26,7 +26,7 @@ Click on the buttons or use the keyboard to enter numbers and operators.
 
 ## Project Setup
 Clone the repository:
-git clone https://github.com/your-repo/calculator-project.git
+git clone https://github.com/INDJokerGamma/Calculator.git
 Open the index.html file in a web browser.
 
 ## Author
